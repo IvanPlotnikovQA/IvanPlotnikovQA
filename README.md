@@ -27,8 +27,8 @@
 <p align="center">
     <img title="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-ffc933?style=for-the-badge">
     <img title="Java" src="https://img.shields.io/badge/-Java-7e06ff?logo=java&style=for-the-badge">
-    <img title="Selenium" src="https://img.shields.io/badge/-SELENIUM-ffc933">
-    <img title="TestNG" src="https://img.shields.io/badge/-TestNG-ffc933">
+    <img title="Selenium" src="https://img.shields.io/badge/-SELENIUM-ffc933?logo=selenium&style=for-the-badge">
+    <img title="TestNG" src="https://img.shields.io/badge/-TestNG-ffc933?logo=testNG&style=for-the-badge">
     <img title="GitHub" src="https://img.shields.io/badge/-GitHub-7e06ff?logo=github&style=for-the-badge">
     <img title="Jenkins" src="https://img.shields.io/badge/-Jenkins-ffc933?logo=jenkins&style=for-the-badge">
     <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">
