@@ -34,6 +34,10 @@
     <img title="Slack" src="https://img.shields.io/badge/-Slack-ffc933?logo=slack&style=for-the-badge">
     <img title="Telegram" src="https://img.shields.io/badge/-Telegram-7e06ff?logo=telegram&style=for-the-badge">
     <img title="Jira" src="https://img.shields.io/badge/-Jira-ffc933?logo=jira&style=for-the-badge">
+    <img title="YouTrack" src="https://img.shields.io/badge/-YouTrack-ffc933?logo=jira&style=for-the-badge">
+    <img title="Confluence" src="https://img.shields.io/badge/-Confluence-ffc933?logo=jira&style=for-the-badge">
+    <img title="Postman" src="https://img.shields.io/badge/-Postman-ffc933?logo=jira&style=for-the-badge">
+    <img title="SQL" src="https://img.shields.io/badge/-SQL-ffc933?logo=jira&style=for-the-badge">  
 </p>
 
 <br/>
